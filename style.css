@@ -2,4 +2,24 @@ nav a {
     font-weight: 900;
     font-size: 18px;
 }
-,.fcsdjfs fsdks
+
+.carousel {
+    background-color: #fceae8;
+}
+.carousel-item {
+    padding: 20px 40px;
+}
+.price-clr {
+    color: #CA1A5E
+}
+.btn-buy {
+    background-image: linear-gradient(to bottom, #FF5B9B 0%, #FF136F 100%);
+    color: #fff;
+    border: none;
+    cursor: pointer;
+    border-radius: 8px;
+    padding: 9px 25px;
+}
+.mar-1 {
+    margin-top: 70px;
+}
