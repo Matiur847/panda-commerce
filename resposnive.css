@@ -1,0 +1,12 @@
+@media only screen and (max-width: 992px) {
+    .categories {
+        display: none;
+    }
+    
+}
+@media only screen and (max-width: 315px) {
+    .submit {
+        margin-top: 5px;
+    }
+    
+}
