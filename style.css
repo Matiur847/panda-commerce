@@ -8,7 +8,7 @@ nav a {
     border-radius: 10px;
 }
 .carousel-item {
-    padding: 20px 40px;
+    padding: 10px 40px;
 }
 .price-clr {
     color: #CA1A5E
@@ -35,10 +35,15 @@ nav a {
 }
 .cat1, .cat2, .cat3 {
     padding: 10px 30px;
+    border-radius: 15px;
 }
 .categories h1 {
     color: white;
 }
-.col-md-3 {
-    background-color: blue;
+.categories img {
+    width: 100%;
+}
+#fuck-of {
+    border: none;
+    box-shadow: 5px 5px 10px gray;
 }
