@@ -47,3 +47,20 @@ nav a {
     border: none;
     box-shadow: 5px 5px 10px gray;
 }
+.n {
+    border: none;
+}
+#subscribe {
+    height: 250px;
+}
+.submit {
+    background-image: linear-gradient(to bottom, #FF5B9B 0%, #FF136F 100%);
+    color: #fff;
+    border: none;
+    cursor: pointer;
+    border-radius: 8px;
+    padding: 5px 25px;
+}
+footer {
+    text-align: center;
+}
